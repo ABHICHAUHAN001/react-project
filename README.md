@@ -1,6 +1,6 @@
 # React Project 🚀
 
-A modern and responsive web application built using **React.js and Vite**. This project focuses on component-based development, reusable UI components, and a clean project structure.
+A modern frontend application built using **React.js and Vite**. This project focuses on component-based development, reusable UI components, and clean code structure.
 
 ## 📌 About the Project
 
@@ -42,42 +42,34 @@ react-project/
 
 Follow these steps to run the project locally.
 
-**1. Clone the repository**
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/ABHICHAUHAN001/react-project.git
 ```
 
-**2. Navigate to the project folder**
+### 2. Navigate to the project folder
 
 ```bash
 cd react-project
 ```
 
-**3. Install dependencies**
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-**4. Start the development server**
+### 4. Start the development server
 
 ```bash
 npm run dev
 ```
 
-**5. Open in browser**
+### 5. Open in browser
 
 ```text
 http://localhost:5173
-```
-
-## 📸 Screenshots
-
-Add your project screenshots here:
-
-```markdown
-![Project Screenshot](./public/screenshot.png)
 ```
 
 ## 🎯 Learning Objectives
@@ -99,9 +91,9 @@ Add your project screenshots here:
 
 ## 👨‍💻 Developer
 
-**Ajit Chauhan**
+**GitHub:** [ABHICHAUHAN001](https://github.com/ABHICHAUHAN001)
 
-GitHub: [ABHICHAUHAN001](https://github.com/ABHICHAUHAN001)
+**Repository:** [React Project](https://github.com/ABHICHAUHAN001/react-project)
 
 ---
 
